@@ -40,3 +40,7 @@ Ensure your `AndroidManifest.xml` includes these permissions before building:
 ```xml
 <uses-permission android:name="android.permission.RECORD_AUDIO" />
 <uses-permission android:name="android.permission.INTERNET" />
+
+<img width="512" height="512" alt="freepik__make_icon_for_jarvis copy" src="https://github.com/user-attachments/assets/1ed36ae8-1b61-4422-a8eb-4cc8084bc0ce" />
+
+
