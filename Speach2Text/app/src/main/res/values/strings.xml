@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JARVIS</string>
+    <string name="speach_to_text">Speach to Text</string>
+    <string name="audio_stream_active">♪ Audio Stream Active</string>
+    <string name="system_initializing">System Initializing...</string>
+    <string name="waiting_for_voice_input">Waiting for voice input...</string>
+    <string name="j_a_r_v_i_s_system">J.A.R.V.I.S. SYSTEM</string>
+    <string name="activate_mic">ACTIVATE MIC</string>
+</resources>
